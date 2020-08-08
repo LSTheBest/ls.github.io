@@ -1,0 +1,9 @@
+.write {
+    border: 1px solid black;
+    float: left;
+    padding: 10px;
+    max-width: 80%;
+ }
+p.x{
+	font-size: 30px;
+}

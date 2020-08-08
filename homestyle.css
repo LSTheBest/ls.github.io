@@ -1,0 +1,13 @@
+ul.z {
+    margin:10px;
+    font-size: 20px;
+ }
+body {
+	background-color: white;
+ }
+nav {
+    max-width: 500px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    float: left;
+ }
